@@ -22,7 +22,9 @@ Run the web crawler: ./crawler <urlFile> <maxPages> <seed><br>
 <urlFile>: File containing seed URLs. <maxPages>: Maximum number of pages to crawl. <seed>: Random seed for link selection.
 Query the indexed pages: ./webSearch <urlFile> <maxPages> <seed>
 
-![Example](example.png)
-![Example1](example1.png)
-![Example](example2.jpeg)
+![Example](example1.png)<br>
+
+![Example1](example.png)<br>
+
+![Example](example2.jpeg)<br>
 
